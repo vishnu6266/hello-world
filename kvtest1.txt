@@ -1,3 +1,4 @@
 This is a test File.
 Adding a line.
 Checking in directly to master - again.
+Creating conflict
